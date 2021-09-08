@@ -1,0 +1,108 @@
+Work Breakdown Agreement
+
+Deliverables:
+
+1. Work Breakdown Agreement (WBA)
+- To be produced by CHUA Yan Yan before 13/04/2021
+- To be reviewed by KIN Jian Xin before 14/04/2021
+
+2. Design Rationale and Documentation
+- To be produced by KIN Jian Xin before 17/04/2021
+- To be reviewed by CHUA Yan Yan before 19/04/2021
+
+3. Class Diagram for Game Package
+- To be produced by KIN Jian Xin before 21/04/2021
+- To be reviewed by CHUA Yan Yan before 22/04/2021
+
+4. Sequence Diagram for game.action.VendingAction.execute
+- To be produced by KIN Jian Xin before 21/04/2021
+- To be reviewed by CHUA Yan Yan before 22/04/2021
+
+5. Sequence Diagram for game.behaviour.FollowBehaviour.getAction
+- To be produced by CHUA Yan Yan before 21/04/2021
+- To be reviewed by KIN Jian Xin before 22/04/2021
+
+6. Sequence Diagram for engine.Menu.showMenu
+- To be produced by CHUA Yan Yan before 21/04/2021
+- To be reviewed by KIN Jian Xin before 22/04/2021
+
+
+
+I accept this WBA
+I accept this WBA
+
+
+
+[NEW UPDATES]
+
+Deliverables for Assignment 2:
+
+7. Implementation of new class for Ambient
+(i) game.ambient.Bush extends engine.Ground]
+- To be done by CHUA Yan Yan before 05/05/2021
+- To be tested by KIN Jian Xin before 07/05/2021
+
+8. Implementation of new classes for Dinosaurs
+(i) game.BabyStegosaur extends engine.Actor
+(ii) game.dinosaur.Brachiosaur extends engine.Actor
+(iii) game.BabyBrachiosaur extends engine.Actor
+(iii) game.dinosaur.Allosaur extends engine.Actor
+(iv) game.BabyAllosaur extends engine.Actor]
+- To be done by KIN Jian Xin before 05/05/2021
+- To be tested by CHUA Yan Yan before 07/05/2021
+
+9. Implementation of new classes for Portable Items
+(i) game.item.Fruit extends game.item.PortableItem
+(ii) game.item.Egg extends game.item.PortableItem
+(iii) game.item.Corpse extends game.item.PortableItem]
+- To be done by CHUA Yan Yan before 05/05/2021
+- To be tested by KIN Jian Xin before 07/05/2021
+
+10. Implementation of new classes for Eco Points, Vending Machine and Purchasable Items
+(i) game.item.VendingMachine extends engine.Item
+(ii) game.item.MealKit extends game.item.PortableItem
+(iii) game.item.LaserGun extends engine.WeaponItem]
+- To be done by KIN Jian Xin before 05/05/2021
+- To be tested by CHUA Yan Yan before 07/05/2021
+
+11. Implementation of new classes for Actions and Behaviours
+(i) game.FeedItemAction extends engine.Action
+(ii) game.action.VendingAction extends engine.Action
+(iii) game.dinosaur.Allosaur.AllosaurAttackAction extends game.action.AttackAction
+(iv) game.behaviour.SeekBehaviour implements game.behaviour.Behaviour]
+- To be done by CHUA Yan Yan before 05/05/2021
+- To be tested by KIN Jian Xin before 07/05/2021
+
+
+
+I accept this WBA
+I accept this WBA
+
+
+
+[NEW UPDATES]
+
+Deliverables for Assignment 3:
+
+12. Implementation of the sections below (according to the specification)
+(i) Lakes, water and rain
+(ii) Thirsty dinosaurs
+(iii) Second map
+(iv) Update design rationale
+- To be done by KIN Jian Xin before 23/05/2021
+- To be reviewed by CHUA Yan Yan before 25/05/2021
+
+13. Implementation of the sections below (according to the specification)
+(i) Pterodactyls
+(ii) A more sophisticated game driver
+(iii) Update UML class diagram
+- To be done by CHUA Yan Yan before 23/05/2021
+- To be reviewed by KIN Jian Xin before 25/05/2021
+
+14. Recommendations for extensions to the game engine
+- To be done together before 25/05/2021
+
+
+
+I accept this WBA
+I accept this WBA
