@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "676580441344",
+    "firebase_url": "https://hackathon-app-ea408-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hackathon-app-ea408",
+    "storage_bucket": "hackathon-app-ea408.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676580441344:android:a6dad55461d22cb686c7e5",
+        "android_client_info": {
+          "package_name": "com.example.hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676580441344-8tobu0hgpbd6mi320m9s6hfdp1tjpldq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC16gnsKCB09zP9-Fpg5B0w0eelRQqMMAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676580441344-8tobu0hgpbd6mi320m9s6hfdp1tjpldq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

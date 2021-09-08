@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">hackathon</string>
+    <string name="nav_open">opened</string>
+    <string name="nav_close">closed</string>
+</resources>

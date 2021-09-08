@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/AQ"
+        android:title="Ask Question" />
+    <item
+        android:id="@+id/VQ"
+        android:title="View Questions" />
+    <item android:title="Virtual Interview" />
+</menu>
