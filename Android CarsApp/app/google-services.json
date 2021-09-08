@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "437752261572",
+    "firebase_url": "https://fit2081week8-6150b-default-rtdb.firebaseio.com",
+    "project_id": "fit2081week8-6150b",
+    "storage_bucket": "fit2081week8-6150b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437752261572:android:e8c6631cd14b959c369291",
+        "android_client_info": {
+          "package_name": "com.example.carsapp_week5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437752261572-ikkjb2r5po8cbe4hrqpvupibm8558s9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEhYk0NrglBCZQVMQLfiE4JcLbonh3mrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437752261572-ikkjb2r5po8cbe4hrqpvupibm8558s9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

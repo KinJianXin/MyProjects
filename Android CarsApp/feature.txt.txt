@@ -1,0 +1,6 @@
+The new feature will launch a new activity when the user selects a car in the "list all car".
+The new activity will display the maker, model and price of the selected car 
+A button below will ask the user to accept the terms and conditions and if the user click on the button,
+a new button will pop out and allow the user to confirm the purchase.
+Once the purchase is confirmed, a toast will notify the user that the purchase is successful.
+After that the car will be removed from the list of cars.
